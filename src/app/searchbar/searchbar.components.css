@@ -1,0 +1,14 @@
+.card {
+    background-color: gainsboro;
+    margin: auto;
+  }
+  
+  button, h1, h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .jumbotron {
+    background-color:gainsboro;
+  

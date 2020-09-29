@@ -1,0 +1,6 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+body{
+    background-image:url('assets/image/img3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
